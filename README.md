@@ -16,7 +16,7 @@ Esta pista permite obtener los primeros caracteres de la clave y utilizarla desp
 
 ```text
 [5, 9, 24, 4, 62, 33, 115, 55, 6, 46, 113, 42, 55, 118, 43, 28, 119, 105, 113, 115, 36]
-
+```
 ---
 
 ## Captura de la ejecución
